@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 /**
 *main - Main function just to output some string - 1 liner
@@ -9,6 +8,6 @@
 
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle\n");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
